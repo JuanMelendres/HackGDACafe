@@ -13,3 +13,10 @@ body{
 	margin-top: 1.5%;
 
 }
+
+#esquina{
+
+	position: absolute;
+	width: 20%;
+	height: 20%;
+}
